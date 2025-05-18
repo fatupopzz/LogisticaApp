@@ -66,7 +66,7 @@ LogisticaApp/
 # Usando Maven
 mvn clean package
 
-# Compilación manual
+# Compilación manual (USA ESTO)
 mkdir -p bin
 javac -d bin $(find main/java -name "*.java")
 cp main/resources/logistica.txt bin/
@@ -81,7 +81,7 @@ java -jar target/logistica-1.0-SNAPSHOT-jar-with-dependencies.jar
 cd bin
 java com.uvg.logistica.app.LogisticaApp
 
-#desde src
+#desde src (LUEGO ESTO PORQ EL TXT ESTA EN SRC)
 java -cp bin com.uvg.logistica.app.LogisticaApp
 ```
 
