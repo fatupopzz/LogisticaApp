@@ -1,8 +1,16 @@
+//----------------------------------------
+// GraphTest.java
+// neovim muere con esto y no se por que
+// Hecho por Emilio Chen y Fatima Navarro
+//---------------------------------------------
+
+
+
 package com.uvg.logistica.model;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 public class GraphTest {
     

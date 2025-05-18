@@ -1,13 +1,17 @@
 package com.uvg.logistica.app;
 
-import com.uvg.logistica.model.Graph;
+import java.io.IOException;
+import java.util.List;
+import java.util.Scanner;
+
 import com.uvg.logistica.model.Floyd;
+import com.uvg.logistica.model.Graph;
 import com.uvg.logistica.utils.FileHandler;
-import java.util.*;
-import java.io.*;
 
 /**
  * Programa principal para la aplicación de logística
+ * Fatima Navarro
+ * Emilio Chen 
  */
 public class LogisticaApp {
     private Graph graph;

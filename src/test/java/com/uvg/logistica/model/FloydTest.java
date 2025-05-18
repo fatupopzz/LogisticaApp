@@ -1,11 +1,18 @@
+//-----------------------------------
+// Test de la clase Floyd
+// para verificar el funcionamiento del algoritmo de Floyd
+//-------------------------------
+
+
 package com.uvg.logistica.model;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import com.uvg.logistica.model.Graph;  // Añade esta importación
-import com.uvg.logistica.model.Floyd;  // Añade esta importación
-import java.util.*;
-import static org.junit.jupiter.api.Assertions.*;
+import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeEach;  
+import org.junit.jupiter.api.Test;  
+
+
 public class FloydTest {
     
     private Graph graph;
