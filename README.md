@@ -80,6 +80,9 @@ java -jar target/logistica-1.0-SNAPSHOT-jar-with-dependencies.jar
 # Ejecución directa de las clases compiladas
 cd bin
 java com.uvg.logistica.app.LogisticaApp
+
+#desde src
+java -cp bin com.uvg.logistica.app.LogisticaApp
 ```
 
 ## Uso del Programa
