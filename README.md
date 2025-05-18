@@ -2,6 +2,9 @@
 
 Este proyecto implementa un sistema de logística que utiliza grafos y el algoritmo de Floyd para encontrar las rutas más cortas entre ciudades, considerando diferentes condiciones climáticas.
 
+![image](https://github.com/user-attachments/assets/842ae135-7254-44a3-a074-0c4eadde4a10)
+
+
 ## Contenido
 1. [Descripción](#descripción)
 2. [Funcionalidades](#funcionalidades)
