@@ -1,0 +1,4 @@
+com/uvg/logistica/model/Graph.class
+com/uvg/logistica/model/Floyd.class
+com/uvg/logistica/app/LogisticaApp.class
+com/uvg/logistica/utils/FileHandler.class
